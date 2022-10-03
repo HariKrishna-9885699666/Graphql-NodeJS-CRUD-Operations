@@ -1,2 +1,2 @@
-# Graphql-NodeJS-Mysql-CRUD-Operations
-CRUD Tutorial - GraphQL, NodeJS, MySQL
+# Graphql-NodeJS-Mysql-TypeORM-CRUD-Operations
+CRUD Tutorial - GraphQL, NodeJS, MySQL, TypeORM
