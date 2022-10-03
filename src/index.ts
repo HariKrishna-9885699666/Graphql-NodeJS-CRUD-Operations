@@ -12,7 +12,6 @@ import { schema } from "./Schema/index";
 import { Employees } from "./Entities/Employees";
 
 const main = async () => {
-  console.log('dfdfdfd', process.env.DB_PASS)
   const AppDataSource = new DataSource({
     type: "mysql",
     host: process.env.DB_HOST,
