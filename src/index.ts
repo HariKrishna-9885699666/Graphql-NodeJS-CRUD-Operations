@@ -1,5 +1,5 @@
 const express = require("express");
-import "reflect-metadata";
+const reflectMetadata = require("reflect-metadata");
 import { graphqlHTTP } from "express-graphql";
 const bodyParser = require("body-parser");
 const cors = require("cors");
