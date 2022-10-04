@@ -2,8 +2,9 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "allowJs": true,
-        "target": "ES6"
+        "target": "ES6",
+        "moduleResolution": "node"
     },
     "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
+    "experimentalDecorators": true
 }
